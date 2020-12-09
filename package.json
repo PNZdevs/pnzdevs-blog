@@ -1,12 +1,12 @@
 {
-  "name": "ElevenTail",
+  "name": "pnzdevs-blog",
   "version": "0.1.0",
-  "description": "A project scaffold for quick-starting a site with Eleventy and TailwindCSS",
-  "author": "Phil Hawksworth",
+  "description": "A simple landing site complete with blog section powered by node",
+  "author": "PNZ Devs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/philhawksworth/eleventail"
+    "url": "https://github.com/tiapnn/pnzdevs-blog"
   },
   "scripts": {
     "build": "npm-run-all build:css build:html",
