@@ -1,6 +1,9 @@
 # dependecies installed by npm
 /node_modules
 
+# prod
+dist
+
 # secrets
 .env
 
