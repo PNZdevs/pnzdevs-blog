@@ -3,14 +3,14 @@
   {% if page.url == "/" %}
   <h1 class=" text-white font-medium text-2xl">PNZ Devs</h1>
   {% else %}
-  <h1 class=" text-white font-medium text-2xl"><a href="/">PNZ Devs <small class="text-sm">let's code this!</small></a></h1>
+  <h1 class=" text-white font-medium text-2xl"><a href="/">PNZ Devs</a></h1>
   {% endif %}
   <nav>
     {%
       set linkList = [
         { "url": "/about" , "text": "About"},
         { "url": "/blog" , "text": "Blog"},
-        { "url": pkg.repository.url , "text": "GitHub"}
+        { "url": "https://github.com/PNZdevs" , "text": "GitHub"}
       ]
     %}
     {% include "navigation-links.njk" %}

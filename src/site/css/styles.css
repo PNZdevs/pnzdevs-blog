@@ -640,13 +640,13 @@ h1.heading {
 
 a {
   border-bottom-width: 2px;
-  border-color: #4fd1c5;
+  border-color: #63b3ed;
 }
 
 a:hover,
 a:focus {
   border-bottom-width: 2px;
-  border-color: #b2f5ea;
+  border-color: #bee3f8;
 }
 
 a.naked-link:link,
@@ -695,7 +695,7 @@ code {
 
 .nav-tab:hover {
   background-color: #fff;
-  color: #38b2ac;
+  color: #4299e1;
   border-bottom-width: 0;
 }
 

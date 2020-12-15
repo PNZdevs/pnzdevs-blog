@@ -33,12 +33,12 @@ h1.heading {
 */
 a {
   @apply border-b-2;
-  @apply border-teal-400;
+  @apply border-blue-400;
 }
 a:hover,
 a:focus {
  @apply border-b-2;
- @apply border-teal-200;
+ @apply border-blue-200;
 }
 a.naked-link:link,
 a.naked-link:visited {
@@ -79,7 +79,7 @@ code {
 }
 .nav-tab:hover {
   @apply bg-white;
-  @apply text-teal-500;
+  @apply text-blue-500;
   @apply border-b-0;
 }
 
