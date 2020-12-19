@@ -15,9 +15,9 @@ To create paragraphs, use a blank line to separate one or more lines of text.
 
 I think I'll use it to format all of my documents from now on.
 
-I just love **bold text**.	
+I just love \*\*bold text\*\*.	
 
-Italicized text is the *cat's meow*.
+Italicized text is the \*cat's meow*.
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
@@ -26,4 +26,4 @@ Italicized text is the *cat's meow*.
 3. Third item
 4. Fourth item
 
-  code?
+  
