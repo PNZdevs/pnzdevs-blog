@@ -1,5 +1,5 @@
     <li class="mt-6">
-      <time value="{{ item.date }}" class="text-gray-600">{{ item.date | readableDate }}</time>
+      <time value="{{ item.date }}" class="text-gray-600">{{ item.date | readableDate }}</time> - <h5 class="inline">{{ item.data.author }}</h5>
       <h4 class="text-lg font-bold"><a href="{{ item.url }}">{{ item.data.title }}</a></h4>
       <div class="">
       {{ item.templateContent | section | safe }}

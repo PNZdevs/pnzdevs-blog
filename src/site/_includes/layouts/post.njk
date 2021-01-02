@@ -3,10 +3,10 @@ layout: default
 pageClass: posts
 templateEngineOverride: njk, md
 ---
-<section>
-  <time value="{{ item.date }}" class="text-gray-600">{{ date | readableDate }}</time>
+<section class="blog-post">
+  <time value="{{ item.date }}" class="text-gray-600">{{ date | readableDate }}</time>  - <h5 class="inline">{{ author }}</h5>
   <h1 class="heading">{{ title }}</h1>
-  <div class="mb-4 text-lg font-medium">
+  <div class="mb-4 text-lg font-semibold">
     {{ content | section | safe }}
   </div>
   <div>
