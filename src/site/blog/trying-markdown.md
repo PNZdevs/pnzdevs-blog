@@ -1,29 +1,26 @@
 ---
-title: Trying MD
+title: Markdown Cheatsheet
 date: 2020-12-15
+author: Mattia Penna
+
 ---
 
-We are writing our post in Markdown M⬇. This is a playground for trying it out
+## We are writing our post in Markdown M⬇. This is a playground and cheatsheeet 
+
+This is intended as a quick reference and showcase. For more complete info, see John Gruber's original spec and the [Github-flavored Markdown info page](https://guides.github.com/features/mastering-markdown/).
 
 <!--more-->
 
-# Heading level 1
-## Heading level 2	
-### Heading level 3	
+To write blocks of `code` you can use the ` backtik.
+Inline code has back-ticks around it.
 
-To create paragraphs, use a blank line to separate one or more lines of text.
+Blocks of code are fenced by lines with three back-ticks ```
 
-I think I'll use it to format all of my documents from now on.
+**Feeling bold today?**
 
-I just love \*\*bold text\*\*.	
+*this has nothing italian apart from looking fancy*
 
-Italicized text is the \*cat's meow*.
+[I'm a link to Mattia's portfolio!](https://tiapnn.netlify.app)
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
-  
+<br>
+HTML Tags are also supported but not raccomanded... 
