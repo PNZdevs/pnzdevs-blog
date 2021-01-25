@@ -1,5 +1,6 @@
 ---
 title: Markdown Cheatsheet
+metaDescription: Playground to learn about markdown language!
 date: 2020-12-15
 author: Mattia Penna
 

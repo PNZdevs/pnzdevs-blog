@@ -1,5 +1,6 @@
 ---
 title: PHP Parse error - syntax error, unexpected '?'
+metaDescription: solution to PHP Parse error - syntax error unexpected '?'
 date: 2021-01-02
 author: Mattia Penna
 ---

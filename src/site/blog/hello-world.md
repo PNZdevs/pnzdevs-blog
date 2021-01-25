@@ -1,5 +1,6 @@
 ---
 title: Hello World
+metaDescription: The first post of PNZ Devs website and blog. Hello world!
 date: 2020-12-15
 author: Mattia Penna
 
