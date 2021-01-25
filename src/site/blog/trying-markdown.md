@@ -1,6 +1,7 @@
 ---
 title: Markdown Cheatsheet
 metaDescription: Playground to learn about markdown language!
+keywords: programming, software developement, web developement, markdown
 date: 2020-12-15
 author: Mattia Penna
 

@@ -1,6 +1,7 @@
 ---
 title: Hello World
 metaDescription: The first post of PNZ Devs website and blog. Hello world!
+keywords: programming, software developement, web developement, hello world
 date: 2020-12-15
 author: Mattia Penna
 
